@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TodoApp-Compose</string>
+    <string name="add_note">Hi! Add New Note</string>
+    <string name="select_priority">Select Note Priority:</string>
+    <string name="add">Add</string>
+    <string name="add_new_note">Add New Note</string>
+</resources>
